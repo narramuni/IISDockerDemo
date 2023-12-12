@@ -1,0 +1,11 @@
+C:\Users\SAI PAVAN KUMAR\source\repos\IISDockerDemo\bin\Debug\IISDockerDemo.deps.json
+C:\Users\SAI PAVAN KUMAR\source\repos\IISDockerDemo\bin\Debug\IISDockerDemo.runtimeconfig.json
+C:\Users\SAI PAVAN KUMAR\source\repos\IISDockerDemo\bin\Debug\appsettings.Development.json
+C:\Users\SAI PAVAN KUMAR\source\repos\IISDockerDemo\bin\Debug\appsettings.json
+C:\Users\SAI PAVAN KUMAR\source\repos\IISDockerDemo\bin\Debug\IISDockerDemo.staticwebassets.runtime.json
+C:\Users\SAI PAVAN KUMAR\source\repos\IISDockerDemo\bin\Debug\IISDockerDemo.exe
+C:\Users\SAI PAVAN KUMAR\source\repos\IISDockerDemo\bin\Debug\IISDockerDemo.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\IISDockerDemo\bin\Debug\IISDockerDemo.pdb
+C:\Users\SAI PAVAN KUMAR\source\repos\IISDockerDemo\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\IISDockerDemo\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\IISDockerDemo\obj\Debug\docker-compose.dcproj.CopyComplete

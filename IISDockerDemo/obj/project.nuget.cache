@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HKKvSrPKLymO2r06cmY+vDGAJHgubiv39vJWGGjH+HB73p+Fc7CEyduJYFSSFOEGkIYQdITJvra14EsPus3O7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SAI PAVAN KUMAR\\source\\repos\\IISDockerDemo\\IISDockerDemo\\IISDockerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SAI PAVAN KUMAR\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

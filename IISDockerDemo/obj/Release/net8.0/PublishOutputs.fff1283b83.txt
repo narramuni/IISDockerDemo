@@ -1,0 +1,7 @@
+C:\Users\SAI PAVAN KUMAR\source\repos\IISDockerDemo\IISDockerDemo\obj\Release\net8.0\PubTmp\Out\IISDockerDemo.exe
+C:\Users\SAI PAVAN KUMAR\source\repos\IISDockerDemo\IISDockerDemo\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\SAI PAVAN KUMAR\source\repos\IISDockerDemo\IISDockerDemo\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\SAI PAVAN KUMAR\source\repos\IISDockerDemo\IISDockerDemo\obj\Release\net8.0\PubTmp\Out\IISDockerDemo.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\IISDockerDemo\IISDockerDemo\obj\Release\net8.0\PubTmp\Out\IISDockerDemo.deps.json
+C:\Users\SAI PAVAN KUMAR\source\repos\IISDockerDemo\IISDockerDemo\obj\Release\net8.0\PubTmp\Out\IISDockerDemo.runtimeconfig.json
+C:\Users\SAI PAVAN KUMAR\source\repos\IISDockerDemo\IISDockerDemo\obj\Release\net8.0\PubTmp\Out\IISDockerDemo.pdb
